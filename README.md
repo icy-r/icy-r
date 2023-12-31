@@ -4,7 +4,7 @@ Hey there, fellow coders! I'm Icy, a passionate software engineering student div
 
 ## About Me
 
-🎓 Currently navigating the challenging seas of my first year in university, pursuing a degree in software engineering. The struggle is real, but so is the passion for crafting elegant code.
+🎓 Currently navigating the challenging seas of my second year in university, pursuing a degree in software engineering. The struggle is real, but so is the passion for crafting elegant code.
 
 💡 Balancing the delicate dance between studying hard and hustling for that extra cash. Because who said you can't code your way to success?
 
