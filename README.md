@@ -21,5 +21,6 @@ Hey there, fellow coders! I'm Icy, a passionate software engineering student div
 Let's embark on this coding adventure together! Feel free to connect, collaborate, or just drop by for a virtual coffee.
 
 📧 Email: Asath12882@gmail.com
+  LinkedIn: [Mohamed ASath](https://www.linkedin.com/in/mohomed-asath-92ab682a7/)
 
 Happy coding! 🚀✨
