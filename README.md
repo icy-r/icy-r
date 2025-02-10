@@ -23,6 +23,6 @@ Let's embark on this coding adventure together! Feel free to connect, collaborat
 
 📧 Email: Asath12882@gmail.com
 
-  LinkedIn: [Mohamed ASath](https://www.linkedin.com/in/mohomed-asath-92ab682a7/)
+  LinkedIn: [Mohamed Asath](https://www.linkedin.com/in/mohomed-asath/)
 
 Happy coding! 🚀✨
